@@ -1,0 +1,32 @@
+*:not(code){
+    margin: 0;
+    padding: 0;
+    border: 1px solid rgb(136, 0, 255);
+    outline: none;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin: 48px 0px;
+    /* margin-top: 46px;
+    margin-bottom: 46px;
+    margin-left: 0;
+    margin-right: 0; */
+}
+
+h2{
+    margin-bottom: 24px;
+}
+
+p{
+    margin-bottom: 16px;
+    padding: 16px;  
+}
+
+body{
+    padding-left: 16px;
+}
+
+
+
